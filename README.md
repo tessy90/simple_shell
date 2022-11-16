@@ -1,1 +1,1 @@
-0x16. C - Simple Shell
+Ruth and Johnson Readme for shell project
