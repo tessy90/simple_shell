@@ -1,1 +1,2 @@
-Ruth and Johnson Readme for shell project
+
+tesy90 and joyogbu simple-shell project

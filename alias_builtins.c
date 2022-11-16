@@ -1,8 +1,4 @@
-/*
- * File: builtin.c
- * Auth: Alex Yu
- *       Brennan D Baraban
- */
+
 
 #include "shell.h"
 
@@ -155,5 +151,8 @@ char **replace_aliases(char **args)
 	}
 
 	return (args);
+
 }
+
+
 
